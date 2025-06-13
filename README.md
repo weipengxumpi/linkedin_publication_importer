@@ -11,6 +11,11 @@ This Python script automates the process of adding academic publications to your
 - Adds publications to your LinkedIn profile
 - Handles multiple publications in batch
 
+## TODO list
+
+- Add authors
+- Avoid adding existing papers in the profile
+
 ## Requirements
 
 - Python 3.x
