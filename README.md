@@ -1,7 +1,7 @@
 ![LinkedIn Publication Importer](banner.png)
 ## LinkedIn Publication Automation Script
 
-This Python script automates the process of adding academic publications to your LinkedIn profile. It extracts publication information from a PDF file and automatically adds them to your LinkedIn profile using Selenium WebDriver.
+This Python script automates the process of adding academic publications to your LinkedIn profile. It extracts publication information from a PDF file and automatically adds them to your LinkedIn profile.
 
 ## Features
 
