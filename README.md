@@ -36,6 +36,8 @@ pip install selenium pdfplumber webdriver_manager
 For example:
 ```
 ● Deep Learning for Computer Vision, John Doe, Jane Smith, CVPR 2023
+● Shallow Learning for Computer Vision, John Doe, Jane Smith, CVPR 2021
+...
 ```
 
 2. Update the following in `main.py`:
